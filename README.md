@@ -37,7 +37,7 @@ streamlit run app.py
 
 Repositorio GitHub: https://github.com/Benjie147/App-Final
 
-Aplicación en Streamlit Cloud: [https://aplicativo-victor-benjamin-rivas.streamlit.app](https://victor-benjamin-rivas-app-final.streamlit.app/)
+Aplicación en Streamlit Cloud: https://victor-benjamin-rivas-app-final.streamlit.app/
 
 👨‍🎓 Autor
 
