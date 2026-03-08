@@ -5,37 +5,15 @@
 ---
 
 ## 📄 Descripción
-Aplicación desarrollada en **Streamlit** que integra conceptos fundamentales de programación en Python, aprendidos en el Módulo 1.  
-Permite gestionar actividades financieras y evaluar su desempeño mediante:
+Este proyecto explora cómo se comportan los clientes de una empresa de telecomunicaciones para entender qué factores están relacionados con la fuga de clientes (Churn).
+A través de un análisis exploratorio de datos (EDA) y visualizaciones interactivas con Python, Streamlit, Pandas y Seaborn, se busca identificar patrones que ayuden a predecir qué clientes podrían cancelar el servicio y cómo retenerlos.
 
-- Variables y condicionales
-- Listas y diccionarios
-- Funciones y programación funcional
-- Programación orientada a objetos (POO)
-
----
-
-## 🏗️ Funcionalidades por Ejercicio
-
-### Ejercicio 1 – Variables y Condicionales
-- Verificador simple de presupuesto vs gasto.
-- Indica si el gasto está dentro o fuera del presupuesto.
-- Muestra la diferencia entre presupuesto y gasto.
-
-### Ejercicio 2 – Listas y Diccionarios
-- Registro de actividades financieras.
-- Cada actividad se guarda como diccionario.
-- Visualización de estado de cada actividad con colores y emojis ✅/❌.
-
-### Ejercicio 3 – Funciones y Programación Funcional
-- Cálculo del retorno esperado por actividad.
-- Uso de funciones, `map` y `lambda`.
-
-### Ejercicio 4 – Programación Orientada a Objetos (POO)
-- Clase `Actividad` con atributos y métodos:
-  - `esta_en_presupuesto()`
-  - `mostrar_info()`
-- Visualización de información y estado de cada objeto.
+- Exploración del dataset: vista rápida de filas, columnas y tipos de variables.
+- Clasificación de variables: separar numéricas de categóricas y ver cuántas hay de cada tipo.
+- Estadísticas y distribución: media, mediana, percentiles y gráficos para entender la dispersión.
+- Valores faltantes: detectar y visualizar datos nulos.
+- Análisis bivariado: relacionar variables numéricas y categóricas para descubrir patrones.
+- Insights: observaciones clave para interpretar el comportamiento de los clientes y proponer estrategias de retención.
 
 ---
 
@@ -57,10 +35,9 @@ Ejecutar la aplicación:
 streamlit run app.py
 🌐 Enlaces
 
-Repositorio GitHub: https://github.com/Benjie147/Aplicativo
+Repositorio GitHub: https://github.com/Benjie147/App-Final
 
-Aplicación en Streamlit Cloud: https://aplicativo-victor-benjamin-rivas.streamlit.app
-
+Aplicación en Streamlit Cloud: [https://aplicativo-victor-benjamin-rivas.streamlit.app](https://victor-benjamin-rivas-app-final.streamlit.app/)
 
 👨‍🎓 Autor
 
