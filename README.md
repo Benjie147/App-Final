@@ -1,4 +1,4 @@
-# 📘 Proyecto Módulo 1 – Fundamentos de Programación
+# 📘 Caso de Estudio N°2 – TelcoCustomerChurn
 
 ![Streamlit](https://img.shields.io/badge/Streamlit-v1.53.1-orange) ![Python](https://img.shields.io/badge/Python-3.10-blue) ![License](https://img.shields.io/badge/License-MIT-green) ![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen) ![PRs](https://img.shields.io/badge/PRs-Welcome-orange)![Seaborn](https://img.shields.io/badge/Seaborn-0.13.2-purple)![Matplotlib](https://img.shields.io/badge/Matplotlib-3.10.8-red)![NumPy](https://img.shields.io/badge/NumPy-2.2.6-lightgrey)![Pandas](https://img.shields.io/badge/Pandas-2.3.3-blue)
 
