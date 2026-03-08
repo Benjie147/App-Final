@@ -23,12 +23,20 @@ A través de un análisis exploratorio de datos (EDA) y visualizaciones interact
 - `README.md` – Documentación del proyecto  
 
 ---
-##  Capturas
-1.png
-2.png
-3.png
-4.png
-5.png
+
+## 📸 Capturas
+
+![Home](images/1.png)
+
+![EDA](images/2.png)
+
+![Variables](images/3.png)
+
+![Bivariado](images/4.png)
+
+![Insights](images/5.png)
+
+---
 
 ## ⚙️ Instrucciones de ejecución
 
